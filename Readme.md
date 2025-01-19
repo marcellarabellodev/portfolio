@@ -1,7 +1,7 @@
 
 🤖 Portifólio
 
-Olá! 😊 Bem vindo(a) ao meu Portifólio! Primeiro Portifólio realizado usando Template do Bootstrap, constando meu currículo, falando um pouco sobre mim e meus contatos.
+Olá! 😊 Bem vindo(a) ao meu Portfólio! Primeiro Portfólio realizado usando Template do Bootstrap, constando meu currículo, falando um pouco sobre mim e meus contatos.
 
 
 💻 Aprendizados
